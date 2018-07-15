@@ -18,6 +18,7 @@ Branches can help when:
  - A different funtionality is being built but does not want to alter the master branch
 
 How do the diagrams help you visualize the branch structure?
+The diagrams help by show from which commit the branches diverge, and which commits have parents and which don't.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
