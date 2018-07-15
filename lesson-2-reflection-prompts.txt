@@ -22,6 +22,8 @@ The diagrams help by show from which commit the branches diverge, and which comm
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+One branch becomes the new branch, the other can be deleted.
+Both branches merged and the new branch retains rechability to commits of both the old branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
