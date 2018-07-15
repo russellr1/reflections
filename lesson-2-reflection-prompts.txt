@@ -13,6 +13,9 @@ This helps with the one logical change per commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches can help when:
+ - A entirely expectation is being built using the same code
+ - A different funtionality is being built but does not want to alter the master branch
 
 How do the diagrams help you visualize the branch structure?
 
