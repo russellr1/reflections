@@ -27,3 +27,5 @@ Both branches merged and the new branch retains rechability to commits of both t
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros - very helpful, easy merges get done easily.
+Cons - didn't see any real cons.
